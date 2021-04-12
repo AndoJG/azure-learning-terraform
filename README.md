@@ -15,8 +15,7 @@ All of these things can be installed via Homebrew
 
 ## Modules
 
-Many of the official Microsoft Terraform modules found [here](https://github.com/Azure?q=terraform-azurerm) are written in a way that makes them incompatible with Terragrunt.
-As such, modules in this project are designed and written with the expressed intent of being used with Terragrunt.
+Modules in this project are designed and written with the expressed intent of being used with Terragrunt.
 
 ### What does that mean for writing a module?
 
